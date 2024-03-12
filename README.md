@@ -1,2 +1,2 @@
 # Ejercicios_PHP
-Ejercicios de PHP
+Prácticas de introducción a PHP.
