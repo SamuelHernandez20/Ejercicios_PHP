@@ -1,2 +1,2 @@
 # Ejercicios_PHP
-Prácticas de introducción a PHP.
+Repositorio dedicado a la subida de ejercicio de introducción a PHP.
